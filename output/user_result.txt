@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-22 18:29:14,url
+2024-12-23 06:26:56,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -430,6 +430,7 @@ CCTV-17,http://60.255.240.247:8090/live/CCTV-17.m3u8$订阅源
 ☘️四川频道,#genre#
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8$订阅源
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd$订阅源
+万源新闻综合,http://live.wanyuannews.com:80/wytv/hd/live.m3u8$订阅源
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8$订阅源
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd$订阅源
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8$订阅源
@@ -478,7 +479,6 @@ CCTV-17,http://60.255.240.247:8090/live/CCTV-17.m3u8$订阅源
 
 💰央视付费频道,#genre#
 央视台球,http://222.169.41.47:9901/tsfile/live/1012_1.m3u8$订阅源
-央视台球,http://124.230.56.27:55555/udp/239.76.254.58:9000$订阅源
 央视台球,http://36.129.204.117:9003//hls/71/index.m3u8$订阅源
 风云足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1061&tk=7d4ad8f156e3$订阅源
 风云足球,http://113.236.31.149:9901/tsfile/live/1122_1.m3u8$订阅源
