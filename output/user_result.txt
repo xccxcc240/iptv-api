@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-28 18:30:18,url
+2024-12-29 06:27:49,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -31,9 +31,9 @@ CCTV-4,http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1
 CCTV-4,http://222.129.139.91:8888/rtp/239.3.1.213:4220$组播源
 CCTV-4,http://60.2.190.206:4000/rtp/239.253.92.251:6141$组播源
 CCTV-4,http://114.252.238.87:8000/rtp/239.3.1.105:8092$组播源
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源-1920x1080
 CCTV-4,http://222.129.139.91:8888/udp/239.3.1.214:4220$订阅源
 CCTV-4,http://222.129.139.229:8888/udp/239.3.1.105:8092$订阅源
+CCTV-4,http://123.113.187.204:8000/udp/239.3.1.214:4220$订阅源
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-5,http://220.249.114.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -463,8 +463,6 @@ CCTV-17,http://222.129.139.91:8888/udp/239.3.1.151:8144$订阅源
 沙湾综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8$订阅源
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv$订阅源
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd$订阅源
-蓬安新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8?zsicd$订阅源
-蓬安新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8$订阅源
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd$订阅源
 长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8$订阅源
 马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8$订阅源
