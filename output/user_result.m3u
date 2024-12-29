@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-12-29 06:27:49" tvg-logo="https://live.fanmingming.com/tv/2024-12-29 06:27:49.png" group-title="更新时间",2024-12-29 06:27:49
+#EXTINF:-1 tvg-name="2024-12-29 18:30:31" tvg-logo="https://live.fanmingming.com/tv/2024-12-29 18:30:31.png" group-title="更新时间",2024-12-29 18:30:31
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -62,11 +62,11 @@ http://60.2.190.206:4000/rtp/239.253.92.251:6141$组播源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://114.252.238.87:8000/rtp/239.3.1.105:8092$组播源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://222.129.139.91:8888/udp/239.3.1.214:4220$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://222.129.139.229:8888/udp/239.3.1.105:8092$订阅源
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-http://123.113.187.204:8000/udp/239.3.1.214:4220$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
@@ -917,6 +917,10 @@ http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8$�
 http://tv.drs.ganzitv.com:8100/channellive/gztv.flv$订阅源
 #EXTINF:-1 tvg-name="甘孜综合" tvg-logo="https://live.fanmingming.com/tv/甘孜综合.png" group-title="☘️四川频道",甘孜综合
 http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd$订阅源
+#EXTINF:-1 tvg-name="蓬安新闻综合" tvg-logo="https://live.fanmingming.com/tv/蓬安新闻综合.png" group-title="☘️四川频道",蓬安新闻综合
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8?zsicd$订阅源
+#EXTINF:-1 tvg-name="蓬安新闻综合" tvg-logo="https://live.fanmingming.com/tv/蓬安新闻综合.png" group-title="☘️四川频道",蓬安新闻综合
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8$订阅源
 #EXTINF:-1 tvg-name="长宁综合" tvg-logo="https://live.fanmingming.com/tv/长宁综合.png" group-title="☘️四川频道",长宁综合
 http://cnpull.sccnfb.com/live/123456.m3u8?zsicd$订阅源
 #EXTINF:-1 tvg-name="长宁综合" tvg-logo="https://live.fanmingming.com/tv/长宁综合.png" group-title="☘️四川频道",长宁综合
