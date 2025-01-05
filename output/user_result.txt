@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-05 06:28:19,url
+2025-01-05 18:31:47,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -31,9 +31,9 @@ CCTV-4,http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1
 CCTV-4,http://222.129.139.91:8888/rtp/239.3.1.213:4220$组播源
 CCTV-4,http://60.2.190.206:4000/rtp/239.253.92.251:6141$组播源
 CCTV-4,http://114.252.238.87:8000/rtp/239.3.1.105:8092$组播源
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源-1920x1080
 CCTV-4,http://222.129.139.91:8888/udp/239.3.1.214:4220$订阅源
 CCTV-4,http://222.129.139.229:8888/udp/239.3.1.105:8092$订阅源
-CCTV-4,http://123.113.187.204:8000/udp/239.3.1.214:4220$订阅源
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-5,http://220.249.114.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -416,10 +416,9 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源
 西藏卫视,http://114.252.238.87:8000/udp/239.3.1.47:8164$订阅源
 西藏卫视,http://59.48.75.130:3052/tsfile/live/0109_1.m3u8$订阅源
 新疆卫视,http://220.249.114.102:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-新疆卫视,http://coolcat.synology.me:4022/rtp/239.3.1.48:8160$组播源
 新疆卫视,http://59.48.75.130:3052/tsfile/live/1004_1.m3u8$订阅源
 新疆卫视,http://61.138.128.226:19901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-新疆卫视,http://58.57.40.22:9901/tsfile/live/1055_1.m3u8$订阅源
+新疆卫视,http://61.138.128.226:19901/tsfile/live/0110_1.m3u8$订阅源
 云南卫视,http://220.249.114.102:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 云南卫视,http://123.113.187.204:8000/rtp/239.3.1.26:8108$组播源
 云南卫视,http://221.219.79.161:4000/rtp/239.3.1.26:8108$组播源
