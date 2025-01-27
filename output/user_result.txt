@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-27 06:36:38,url
+2025-01-27 18:41:59,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -24,9 +24,9 @@ CCTV-3,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&au
 CCTV-3,http://123.113.187.204:8000/rtp/239.3.1.172:8001$组播源
 CCTV-3,http://114.252.236.205:8000/rtp/239.3.1.172:8001$组播源
 CCTV-3,http://114.246.181.146:4022/rtp/239.3.1.172:8001$组播源
+CCTV-3,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8$订阅源-1920x1080
 CCTV-3,http://58.221.214.82:9901/tsfile/live/0003_1.m3u8$订阅源
 CCTV-3,http://123.113.187.204:8000/udp/239.3.1.172:8001$订阅源
-CCTV-3,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8$订阅源-1920x1080
 CCTV-4,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-4,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-4,http://123.113.187.204:8000/rtp/239.3.1.214:4220$组播源
@@ -41,9 +41,9 @@ CCTV-5,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&au
 CCTV-5,http://123.113.187.204:8000/rtp/239.3.1.173:8001$组播源
 CCTV-5,http://114.252.236.205:8000/rtp/239.3.1.173:8001$组播源
 CCTV-5,http://114.246.181.146:4022/rtp/239.3.1.173:8001$组播源
-CCTV-5,https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8$订阅源-1920x1080
 CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8$订阅源
 CCTV-5,http://123.113.187.204:8000/udp/239.3.1.173:8001$订阅源
+CCTV-5,http://58.221.214.82:9901/tsfile/live/0005_1.m3u8$订阅源
 CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5+,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -367,6 +367,11 @@ CCTV-17,http://58.221.214.82:9901/tsfile/live/0003_2.m3u8$订阅源
 云南卫视,http://58.19.43.46:9901/tsfile/live/1010_1.m3u8$订阅源
 
 ☘️四川频道,#genre#
+万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8$订阅源
+万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd$订阅源
+万源新闻综合,http://live.wanyuannews.com:80/wytv/hd/live.m3u8$订阅源
+乐至综合,http://175.155.106.72:89/live1/live1.m3u8$订阅源
+乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd$订阅源
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8$订阅源
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8?zsicd$订阅源
 凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8?zsicd$订阅源
@@ -393,11 +398,14 @@ CCTV-17,http://58.221.214.82:9901/tsfile/live/0003_2.m3u8$订阅源
 昭化综合,http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8$订阅源
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8$订阅源
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd$订阅源
+武胜综合,http://live2.gatv.com.cn:86/live/WS.m3u8?zsicd$订阅源
+武胜综合,http://live2.gatv.com.cn:86/live/WS.m3u8$订阅源
 汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8$订阅源
 汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8?zsicd$订阅源
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8$订阅源
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
 沐川综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8$订阅源
+沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd$订阅源
 沙湾综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8$订阅源
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv$订阅源
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd$订阅源
