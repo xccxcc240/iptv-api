@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-04 06:25:50,url
+2025-02-04 18:29:03,url
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -18,15 +18,14 @@ CCTV-2,http://61.138.128.226:19901/tsfile/live/0002_1.m3u8$订阅源
 CCTV-2,http://58.19.43.46:9901/tsfile/live/1021_1.m3u8$订阅源
 CCTV-3,http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-3,http://114.252.236.205:8000/rtp/239.3.1.172:8001$组播源
-CCTV-3,http://home.yulei.online:9999/rtp/226.0.2.208:9576$组播源
 CCTV-3,http://60.7.56.33:4000/rtp/239.253.92.191:6057$组播源
 CCTV-3,http://58.221.214.82:9901/tsfile/live/0003_1.m3u8$订阅源
 CCTV-3,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8$订阅源-1920x1080
 CCTV-3,http://61.138.128.226:19901/tsfile/live/0003_1.m3u8$订阅源
 CCTV-4,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-4,http://114.252.236.205:8000/rtp/239.3.1.105:8092$组播源
-CCTV-4,http://home.yulei.online:9999/rtp/226.0.2.156:9160$组播源
 CCTV-4,http://60.2.190.206:4000/rtp/239.253.93.193:6371$组播源
+CCTV-4,http://60.2.190.206:4000/rtp/239.253.92.251:6141$组播源
 CCTV-4,http://58.221.214.82:9901/tsfile/live/0004_1.m3u8$订阅源
 CCTV-4,http://61.138.128.226:19901/tsfile/live/0004_1.m3u8$订阅源
 CCTV-4,http://58.19.43.46:9901/tsfile/live/1023_1.m3u8$订阅源
@@ -40,7 +39,6 @@ CCTV-5,http://61.138.128.226:19901/tsfile/live/0005_1.m3u8$订阅源
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-5+,http://114.252.236.205:8000/rtp/239.3.1.130:8004$组播源
-CCTV-5+,http://home.yulei.online:9999/rtp/226.0.2.168:9256$组播源
 CCTV-5+,http://60.7.56.33:4000/rtp/239.253.92.82:8013$组播源
 CCTV-5+,http://58.221.214.82:9901/tsfile/live/0016_1.m3u8$订阅源
 CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源-1920x1080
@@ -93,7 +91,6 @@ CCTV-11,http://61.138.128.226:19901/tsfile/live/0011_2.m3u8$订阅源
 CCTV-12,http://61.136.172.236:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-12,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-12,http://114.252.236.205:8000/rtp/239.3.1.64:8124$组播源
-CCTV-12,http://home.yulei.online:9999/rtp/226.0.2.164:9224$组播源
 CCTV-12,http://60.7.56.33:4000/rtp/239.253.92.197:6062$组播源
 CCTV-12,http://58.221.214.82:9901/tsfile/live/0012_1.m3u8$订阅源
 CCTV-12,http://61.138.128.226:19901/tsfile/live/0013_1.m3u8$订阅源
@@ -121,7 +118,6 @@ CCTV-15,http://61.138.128.226:19901/tsfile/live/0019_1.m3u8$订阅源
 CCTV-15,http://58.19.43.46:9901/tsfile/live/1034_1.m3u8$订阅源
 CCTV-16,http://114.252.236.205:8000/rtp/239.3.1.183:8001$组播源
 CCTV-16,http://114.252.236.205:8000/rtp/239.3.1.184:8001$组播源
-CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264$组播源
 CCTV-16,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源-1920x1080
 CCTV-16,http://58.221.214.82:9901/tsfile/live/0002_2.m3u8$订阅源
 CCTV-16,http://36.129.204.117:9003//hls/17/index.m3u8$订阅源
@@ -330,14 +326,11 @@ CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
 利州综合,http://tvfile.lzgbdst.com:80/nmip-media/channellive/channel106876/playlist.m3u8$订阅源
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8$订阅源
 双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd$订阅源
-双流综合,http://tvbox6.icu/tv/cditv.php?id=slzh$订阅源
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8$订阅源
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd$订阅源
 叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1$订阅源
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8$订阅源
 四川科教,http://wouu.net:9977/udp/239.93.42.44:5140$订阅源
-夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8$订阅源
-夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd$订阅源
 岳池新闻综合,http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b$订阅源
 广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8$订阅源
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8$订阅源
