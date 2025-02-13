@@ -1,13 +1,13 @@
 更新时间,#genre#
-2025-02-13 06:26:16,url
+2025-02-13 18:28:25,url
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://218.24.193.146:808/rtp/232.0.0.27:1234$组播源
 CCTV-1,http://125.82.168.238:8888/rtp/235.254.198.51:1480$组播源
 CCTV-1,http://125.82.168.238:8888/rtp/235.254.198.1:1280$组播源
-CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$订阅源-1920x1080
 CCTV-1,http://58.221.214.82:9901/tsfile/live/0001_1.m3u8$订阅源
+CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$订阅源-1920x1080
 CCTV-1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-2,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -403,7 +403,6 @@ CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8$订阅源
 康巴卫视,http://wouu.net:9977/udp/239.93.0.41:5140$订阅源
 康巴卫视,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_KANGBA$订阅源
-康巴卫视,http://ct.370829.xyz:35455/itv/1000000005000266002.m3u8?cdn=ystenlive$订阅源
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8$订阅源
 昭化综合,http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8$订阅源
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8$订阅源
