@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-10 06:24:50,url
+2025-04-10 18:27:35,url
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -99,7 +99,6 @@ CCTV-15,http://120.76.248.139/live/bfgd/4200000133.m3u8$订阅源
 CCTV-16,http://218.24.193.146:808/rtp/232.0.0.182:1234$组播源
 CCTV-16,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源-1920x1080
 CCTV-16,http://36.129.204.117:9003//hls/17/index.m3u8$订阅源
-CCTV-16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8$订阅源
 CCTV-17,http://218.24.193.146:808/rtp/232.0.0.230:1234$组播源
 CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源-1920x1080
 CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8$订阅源
@@ -288,8 +287,11 @@ CCTV-17,http://36.129.204.117:9003//hls/18/index.m3u8$订阅源
 凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8?zsicd$订阅源
 利州综合,http://tvfile.lzgbdst.com:80/nmip-media/channellive/channel106876/playlist.m3u8$订阅源
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8$订阅源
-双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd$订阅源
+叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8$订阅源
+叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd$订阅源
 四川科教,http://wouu.net:9977/udp/239.93.42.44:5140$订阅源
+夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8$订阅源
+夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd$订阅源
 小金综合,http://xjlive.xjxrmt.cn:8091/live/xwpd.m3u8$订阅源
 广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8$订阅源
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8$订阅源
@@ -309,9 +311,6 @@ CCTV-17,http://36.129.204.117:9003//hls/18/index.m3u8$订阅源
 沙湾综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8$订阅源
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv$订阅源
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd$订阅源
-金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8$订阅源
-金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd$订阅源
-金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8$订阅源
 长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8$订阅源
 青神综合,http://lmt.scqstv.com/live1/live1.m3u8?zsicd$订阅源
 
